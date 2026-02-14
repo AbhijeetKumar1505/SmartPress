@@ -1,0 +1,5 @@
+{
+  "name": "SmartPress AI",
+  "description": "An intelligent AI-powered file compressor that uses Gemini to determine optimal compression strategies for images, PDFs, and text to meet specific target sizes.",
+  "requestFramePermissions": []
+}
